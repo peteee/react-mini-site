@@ -1,6 +1,6 @@
 # Mini-Site-Template
 
-<img src="https://raw.githubusercontent.com/peteee/react-mini-site/main/Screen%20Shot%202024-03-04%20at%2012.48.39.png" width="300">
+<img src="https://raw.githubusercontent.com/peteee/react-mini-site/main/Screen%20Shot%202024-03-04%20at%2013.46.02.png" width="300">
 
 
 # React + TypeScript + Vite
