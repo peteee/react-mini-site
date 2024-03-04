@@ -21,7 +21,7 @@ body{
 h1, h1, h3 {
   font-family: "Anta", sans-serif;
 }
-header, footer, main, #about {
+header, footer, main, #about, #banner {
   padding:20px;
   max-width: 1000px;
   margin: 0 auto;
@@ -29,6 +29,15 @@ header, footer, main, #about {
 }
 header{
   background: lightblue;
+}
+#banner{
+  padding: 0px;
+  max-height: 380px;
+}
+#banner img{
+  width: 100%;
+  display: block;
+
 }
 footer{
   background: lightgreen;
