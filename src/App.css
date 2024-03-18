@@ -21,7 +21,7 @@ body{
 h1, h1, h3 {
   font-family: "Anta", sans-serif;
 }
-header, footer, main, #about, #banner {
+header, footer, main, #about, #banner, #contact {
   padding:20px;
   max-width: 1000px;
   margin: 0 auto;
